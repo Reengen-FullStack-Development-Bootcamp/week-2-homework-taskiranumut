@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "hotelName": "Asaba",
+    "images": {
+      "cardImage": "https://www.telegraph.co.uk/content/dam/Travel/hotels/articles/fifty-best-hotels/asaba.jpg?imwidth=960",
+      "imageList": [
+        "https://www.telegraph.co.uk/content/dam/Travel/Destinations/Asia/Japan/asaba-japan-gate.jpg",
+        "https://www.telegraph.co.uk/content/dam/Travel/Destinations/Asia/Japan/asaba-japan-stage.jpg",
+        "https://www.telegraph.co.uk/content/dam/Travel/Destinations/Asia/Japan/asaba-japan-p.jpg"
+      ]
+    },
+    "price": "1210",
+    "starNumber": "5",
+    "location": {
+      "city": "Shuzenji",
+      "country": "Japan"
+    },
+    "descriptions": [
+      "Bamboo forests, lakes, blossoming trees, hot-spring baths, dancing fireflies, the scent of tatami… If there is one place where the unpoetic might feel inspired to write a haiku, it’s Asaba. The 15th-century family-run ryokan, on the edge of the hot-spring town Shuzenji, is just two hours south of Tokyo by train.",
+      "The entrance is marked by a split cotton noren curtain hanging above a monochrome pebble entrance, behind which elegant kimono-clad staff usher guests to one of 17 minimal guestrooms. Each is designed in signature ryokan style, with tatami mat floors, sliding screens, deep cypress baths, futons, paper lanterns and asymmetric flower arrangements, as well as windows with views of pretty lakes and gardens."
+    ]
+  },
+  {
+    "id": "2",
+    "hotelName": "Ellerman House",
+    "images": {
+      "cardImage": "https://www.telegraph.co.uk/content/dam/Travel/hotels/articles/fifty-best-hotels/ellerman-house.jpg?imwidth=960",
+      "imageList": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/max750/115103910.jpg?k=ef019ef0ba3052cb5ad44770c017c62b9127fcfc2829a4ba51bfe932e6e78f98&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/max750/115103899.jpg?k=99ffaee303254baf6d0538c63758e46cd6b67cd689f2d02abc6dee0a3477d3d6&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/max750/209235896.jpg?k=e66e63f3a99e4fe1007d33c4f7c52ea0b8d5c23448aa34dfae997a3b9b4a5ff9&o="
+      ]
+    },
+    "price": "708",
+    "starNumber": "5",
+    "location": {
+      "city": "Cape Town",
+      "country": "South Africa"
+    },
+    "descriptions": [
+      "Perched high above the Atlantic, in a 1.5-acre terraced garden carved out of the Bantry Bay cliffs, Ellerman House enjoys perhaps the most spectacular location in Cape Town, a city not short on views.",
+      "With just 13 rooms and suites sharing the sprawling grounds, and outsiders welcome by prior arrangement or guest invitation only, Ellerman House is also the most private hotel in the city, a secluded retreat with the kind of hushed atmosphere that suits the many regular visitors who treat it as their Cape Town home."
+    ]
+  },
+  {
+    "id": "3",
+    "hotelName": "D-Maris Bay",
+    "images": {
+      "cardImage": "https://www.telegraph.co.uk/content/dam/Travel/hotels/articles/fifty-best-hotels/d-hotel-maris.jpg?imwidth=960",
+      "imageList": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/max750/15772333.jpg?k=bff2c833da473254eb8bf27415e7c355bf55a0d0fd732a0f937a7619112ea71e&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/max750/229016127.jpg?k=4e0957155cc576d23313f6b2111ca6823ee65030d25f6de4dc1992a03502ea8c&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/max750/173257058.jpg?k=9fccbc8a4bc21070ec5401120fb24ca29c4a5013a59c2b6eaf248e44c60df80f&o="
+      ]
+    },
+    "price": "336",
+    "starNumber": "5",
+    "location": {
+      "city": "Muğla",
+      "country": "Turkey"
+    },
+    "descriptions": [
+      "Surrounded by dramatic volcanic rocks and hillsides lush with almond trees, D-Hotel Maris stands in an unblemished nature reserve and looks towards the Aegean and Mediterranean. Repeat guests know to request a harbour-facing room for the best views and to make a point of sailing those turquoise-tinted waters aboard the resort’s 100ft yacht Pasa.",
+      "Kayaking, diving and more can also be arranged at the watersports centre, five beaches provide variety and a spa offers refuge on rare rainy days. On summer evenings, dinner can be taken at an alfresco outpost of London’s Japanese restaurant Zuma or one of five other dining options."
+    ]
+  },
+  {
+    "id": "4",
+    "hotelName": "The Gritti Palace",
+    "images": {
+      "cardImage": "https://www.telegraph.co.uk/content/dam/Travel/hotels/articles/fifty-best-hotels/gritti-palace.jpg?imwidth=960",
+      "imageList": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/max750/155569297.jpg?k=10d2bd0631d20b043c9ff4797a1ae432c7654543396f7f95473ad80fedeec840&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/max750/170610406.jpg?k=a5e6aba4cece49824e6c8a32170018e4647f0c9ec2fab6a4b1ac248d38d4fb7b&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/max750/170610399.jpg?k=9c1d46b88101944b2e964dbf8cd5344e726ed8bd3cdb59b05fc477ec7169c6b3&o="
+      ]
+    },
+    "price": "543",
+    "starNumber": "5",
+    "location": {
+      "city": "Venice",
+      "country": "Italy"
+    },
+    "descriptions": [
+      "If we want everything to stay as it is, everything needs to change. So says Tancredi in the great twilight-of-the-aristocracy novel Il Gattopardo. It could be the motto of historic Venetian grande dame The Gritti Palace, whose recent £36.5m top-to-toe restoration was designed to make everything look the same – just even more opulently stylish.",
+      "The upgrade is most keenly felt in the 82 rooms, their antique décor and fine Rubelli silk fabrics freshened up by designer Chuck Chewning, without forfeiting any romance. Personable GM Paolo Lorenzoni is one of the best in the country – courteous, ever-present, quick to respond to problems – and the staff, in their impeccable vintage liveries, are role models in a city that doesn’t always get service right."
+    ]
+  },
+  {
+    "id": "5",
+    "hotelName": "Burj Al Arab",
+    "images": {
+      "cardImage": "https://www.telegraph.co.uk/content/dam/Travel/Destinations/Middle%20East/Dubai/burj-al-arab-dubai-p.jpg?imwidth=960",
+      "imageList": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/max750/200179798.jpg?k=a8a890c0394c39347f9f5bb5f963c4c82009ba350a141c31fc86ce5ceb436b62&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/max750/221554621.jpg?k=a55973505b4928af5b82b81583d38540e2a082a945958cbc3245a4d57c1d21cf&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/max750/221448019.jpg?k=9fe2a3a2ad2e0cd44f7237375b2842380683a97d7f08b6f68451066215964113&o="
+      ]
+    },
+    "price": "721",
+    "starNumber": "7",
+    "location": {
+      "city": "Dubai",
+      "country": "United Arab Emirates"
+    },
+    "descriptions": [
+      "Ever wanted to live like an oligarch? There’s nothing subtle about the Burj Al Arab, from its name (meaning “tower of the Arabs”) to its bold 1,053ft -high sail-shaped structure (still, at 15 years old, this is the third tallest hotel in the world) built on its own small artificial island. Inside, all 202 rooms are duplex suites; the smallest is 1,819sq ft. The 590ft -high atrium is a showstopper.",
+      " It’s a combination of the luxurious rooms (with thick, heavy doors, marble floors, winding staircase, personal office with an iMac, Burj Al Arab-branded wine, massive bathrooms with whirlpool tub baths, unique and panoramic views of Dubai) and the service that makes this an exceptional place to stay. There’s a staff-to-suite ratio of eight to one and every floor is equipped with a desk of two butlers, staffed 24 hours a day. "
+    ]
+  },
+  {
+    "id": "6",
+    "hotelName": "Hotel Fasano",
+    "images": {
+      "cardImage": "https://www.telegraph.co.uk/content/dam/luxury/2016/06/17/Fasano_Rio.jpg?imwidth=960",
+      "imageList": [
+        "https://q-xx.bstatic.com/xdata/images/hotel/max750/214353004.jpg?k=a058219e1da9f30e39987a203e29860b7a3b2c8cba1a873f0396cd33e240aed8&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/max750/214354564.jpg?k=723b38a4876b54247821cd4e29194572cadb4a06358437ea0c06d7d82a5f1463&o=",
+        "https://q-xx.bstatic.com/xdata/images/hotel/max750/66990531.jpg?k=1216dcce465b58a97d90267e46c455e6b78cef83b06bccf85c4790650461143f&o="
+      ]
+    },
+    "price": "284",
+    "starNumber": "5",
+    "location": {
+      "city": "Rio de Janeiro",
+      "country": "Brazil"
+    },
+    "descriptions": [
+      "When you hotel occupies the most fashionable corner of Rio, where the sugary sands of Ipanema and Arpoador meet, there is some pressure to do justice to its location. Fortunately, it was to São Paulo’s master of luxury hospitality, Rogério Fasano, that the opportunity fell to inject some much needed pizzazz into a tired Rio hotel scene. ",
+      "Today, the Fasano is the hotel to which everyone flocks, to witness invigorating sunrises and sunsets, to take front-row seats to the most outrageous carnival blocos and to witness action on the world’s most beautiful urban beach. Inside, the sophisticated gloom of Philippe Starck’s corridors is punctuated by Gaetano Pesce’s voluptuous, spotlit La Mamma chairs, while designer touches in the rooms are rendered almost obsolete by the flawless views."
+    ]
+  }
+]

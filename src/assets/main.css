@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  background-color: #e8e8e8;
+}
+
+.submit-btn {
+  background-color: rgb(54, 139, 133, 0.8);
+  border: none;
+  height: 38px;
+  color: #f4f4f2;
+}
+
+.submit-btn:focus,
+.submit-btn:focus,
+.submit-btn:active {
+  box-shadow: none;
+  border: none;
+  height: 38px;
+}
+
+.submit-btn:hover {
+  background-color: #368b85;
+  color: #f4f4f2;
+}
+
+.error-color {
+  color: #ff0000;
+}
+
+.error-border {
+  border: 1px solid #ff0000;
+}
